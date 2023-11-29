@@ -1,0 +1,12 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+header{
+    a {
+    color: $coloretesto;
+    text-decoration: none;
+    padding-left: 25px;
+}
+}

@@ -1,0 +1,25 @@
+body {
+  background-color: #640fc5;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+header a {
+  color: whitesmoke;
+  text-decoration: none;
+  padding-left: 25px;
+}
+
+.contenuto {
+  display: flex;
+  justify-content: center;
+}
+
+.articolo {
+  flex-direction: column;
+}/*# sourceMappingURL=style.css.map */
